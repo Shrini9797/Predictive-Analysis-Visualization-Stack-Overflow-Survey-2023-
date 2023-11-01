@@ -1,5 +1,8 @@
 # Predictive Analysis & Visualization: Stack Overflow Survey 2023
 
+![image](https://github.com/Shrini9797/Predictive-Analysis-Visualization-Stack-Overflow-Survey-2023-/assets/143311077/99210044-c488-49ce-a2aa-0b3e8315981c)
+
+
 ## Introduction
 
 In this project, we conducted predictive analysis and visualization on the Stack Overflow Survey 2023 dataset, which encompasses responses from over 90,000 developers. Our goal was to identify key trends and patterns within this vast dataset, predict developer salaries accurately, and effectively communicate our insights through data visualization.
